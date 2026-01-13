@@ -1,0 +1,7 @@
+{
+  "name": "InkSync",
+  "description": "A cute and simple real-time collaborative writing platform with AI-powered co-authoring, designed for seamless creative workflows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
